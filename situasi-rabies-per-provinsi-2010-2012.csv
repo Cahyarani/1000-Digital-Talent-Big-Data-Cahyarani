@@ -1,0 +1,298 @@
+kode_provinsi,nama_provinsi,tahun,jenis_rabies,jumlah_kasus_rabies,orderer
+11,"Prov. Nanggroe Aceh Darussalam",2010,"GHPR",524,1
+11,"Prov. Nanggroe Aceh Darussalam",2010,"VAR",471,2
+11,"Prov. Nanggroe Aceh Darussalam",2010,"LYSSA",0,3
+11,"Prov. Nanggroe Aceh Darussalam",2011,"GHPR",280,1
+11,"Prov. Nanggroe Aceh Darussalam",2011,"VAR",184,2
+11,"Prov. Nanggroe Aceh Darussalam",2011,"LYSSA",0,3
+11,"Prov. Nanggroe Aceh Darussalam",2012,"GHPR",138,1
+11,"Prov. Nanggroe Aceh Darussalam",2012,"VAR",103,2
+11,"Prov. Nanggroe Aceh Darussalam",2012,"LYSSA",0,3
+12,"Prov. Sumatera Utara",2010,"GHPR",3714,1
+12,"Prov. Sumatera Utara",2010,"VAR",2848,2
+12,"Prov. Sumatera Utara",2010,"LYSSA",35,3
+12,"Prov. Sumatera Utara",2011,"GHPR",3909,1
+12,"Prov. Sumatera Utara",2011,"VAR",2745,2
+12,"Prov. Sumatera Utara",2011,"LYSSA",31,3
+12,"Prov. Sumatera Utara",2012,"GHPR",4563,1
+12,"Prov. Sumatera Utara",2012,"VAR",3816,2
+12,"Prov. Sumatera Utara",2012,"LYSSA",18,3
+13,"Prov. Sumatera Barat",2010,"GHPR",858,1
+13,"Prov. Sumatera Barat",2010,"VAR",514,2
+13,"Prov. Sumatera Barat",2010,"LYSSA",5,3
+13,"Prov. Sumatera Barat",2011,"GHPR",2586,1
+13,"Prov. Sumatera Barat",2011,"VAR",1923,2
+13,"Prov. Sumatera Barat",2011,"LYSSA",7,3
+13,"Prov. Sumatera Barat",2012,"GHPR",2606,1
+13,"Prov. Sumatera Barat",2012,"VAR",1975,2
+13,"Prov. Sumatera Barat",2012,"LYSSA",14,3
+14,"Prov. Riau",2010,"GHPR",1293,1
+14,"Prov. Riau",2010,"VAR",1082,2
+14,"Prov. Riau",2010,"LYSSA",2,3
+14,"Prov. Riau",2011,"GHPR",930,1
+14,"Prov. Riau",2011,"VAR",698,2
+14,"Prov. Riau",2011,"LYSSA",6,3
+14,"Prov. Riau",2012,"GHPR",1500,1
+14,"Prov. Riau",2012,"VAR",1252,2
+14,"Prov. Riau",2012,"LYSSA",0,3
+15,"Prov. Jambi",2010,"GHPR",704,1
+15,"Prov. Jambi",2010,"VAR",475,2
+15,"Prov. Jambi",2010,"LYSSA",3,3
+15,"Prov. Jambi",2011,"GHPR",764,1
+15,"Prov. Jambi",2011,"VAR",555,2
+15,"Prov. Jambi",2011,"LYSSA",0,3
+15,"Prov. Jambi",2012,"GHPR",0,1
+15,"Prov. Jambi",2012,"VAR",0,2
+15,"Prov. Jambi",2012,"LYSSA",0,3
+16,"Prov. Sumatera Selatan",2010,"GHPR",144,1
+16,"Prov. Sumatera Selatan",2010,"VAR",75,2
+16,"Prov. Sumatera Selatan",2010,"LYSSA",2,3
+16,"Prov. Sumatera Selatan",2011,"GHPR",1585,1
+16,"Prov. Sumatera Selatan",2011,"VAR",1374,2
+16,"Prov. Sumatera Selatan",2011,"LYSSA",0,3
+16,"Prov. Sumatera Selatan",2012,"GHPR",674,1
+16,"Prov. Sumatera Selatan",2012,"VAR",516,2
+16,"Prov. Sumatera Selatan",2012,"LYSSA",0,3
+17,"Prov. Bengkulu",2010,"GHPR",261,1
+17,"Prov. Bengkulu",2010,"VAR",181,2
+17,"Prov. Bengkulu",2010,"LYSSA",0,3
+17,"Prov. Bengkulu",2011,"GHPR",788,1
+17,"Prov. Bengkulu",2011,"VAR",563,2
+17,"Prov. Bengkulu",2011,"LYSSA",6,3
+17,"Prov. Bengkulu",2012,"GHPR",982,1
+17,"Prov. Bengkulu",2012,"VAR",681,2
+17,"Prov. Bengkulu",2012,"LYSSA",1,3
+18,"Prov. Lampung",2010,"GHPR",1018,1
+18,"Prov. Lampung",2010,"VAR",76,2
+18,"Prov. Lampung",2010,"LYSSA",3,3
+18,"Prov. Lampung",2011,"GHPR",826,1
+18,"Prov. Lampung",2011,"VAR",725,2
+18,"Prov. Lampung",2011,"LYSSA",0,3
+18,"Prov. Lampung",2012,"GHPR",0,1
+18,"Prov. Lampung",2012,"VAR",0,2
+18,"Prov. Lampung",2012,"LYSSA",0,3
+19,"Prov. Kepulauan Bangka Belitung",2010,"GHPR",0,1
+19,"Prov. Kepulauan Bangka Belitung",2010,"VAR",0,2
+19,"Prov. Kepulauan Bangka Belitung",2010,"LYSSA",0,3
+19,"Prov. Kepulauan Bangka Belitung",2011,"GHPR",0,1
+19,"Prov. Kepulauan Bangka Belitung",2011,"VAR",0,2
+19,"Prov. Kepulauan Bangka Belitung",2011,"LYSSA",0,3
+19,"Prov. Kepulauan Bangka Belitung",2012,"GHPR",775,1
+19,"Prov. Kepulauan Bangka Belitung",2012,"VAR",607,2
+19,"Prov. Kepulauan Bangka Belitung",2012,"LYSSA",3,3
+21,"Prov. Kepulauan Riau",2010,"GHPR",1,1
+21,"Prov. Kepulauan Riau",2010,"VAR",0,2
+21,"Prov. Kepulauan Riau",2010,"LYSSA",1,3
+21,"Prov. Kepulauan Riau",2011,"GHPR",0,1
+21,"Prov. Kepulauan Riau",2011,"VAR",0,2
+21,"Prov. Kepulauan Riau",2011,"LYSSA",0,3
+21,"Prov. Kepulauan Riau",2012,"GHPR",450,1
+21,"Prov. Kepulauan Riau",2012,"VAR",413,2
+21,"Prov. Kepulauan Riau",2012,"LYSSA",1,3
+31,"Prov. DKI Jakarta",2010,"GHPR",0,1
+31,"Prov. DKI Jakarta",2010,"VAR",0,2
+31,"Prov. DKI Jakarta",2010,"LYSSA",0,3
+31,"Prov. DKI Jakarta",2011,"GHPR",0,1
+31,"Prov. DKI Jakarta",2011,"VAR",0,2
+31,"Prov. DKI Jakarta",2011,"LYSSA",0,3
+31,"Prov. DKI Jakarta",2012,"GHPR",14,1
+31,"Prov. DKI Jakarta",2012,"VAR",9,2
+31,"Prov. DKI Jakarta",2012,"LYSSA",0,3
+32,"Prov. Jawa Barat",2010,"GHPR",294,1
+32,"Prov. Jawa Barat",2010,"VAR",183,2
+32,"Prov. Jawa Barat",2010,"LYSSA",1,3
+32,"Prov. Jawa Barat",2011,"GHPR",383,1
+32,"Prov. Jawa Barat",2011,"VAR",174,2
+32,"Prov. Jawa Barat",2011,"LYSSA",0,3
+32,"Prov. Jawa Barat",2012,"GHPR",530,1
+32,"Prov. Jawa Barat",2012,"VAR",192,2
+32,"Prov. Jawa Barat",2012,"LYSSA",1,3
+33,"Prov. Jawa Tengah",2010,"GHPR",0,1
+33,"Prov. Jawa Tengah",2010,"VAR",0,2
+33,"Prov. Jawa Tengah",2010,"LYSSA",0,3
+33,"Prov. Jawa Tengah",2011,"GHPR",0,1
+33,"Prov. Jawa Tengah",2011,"VAR",0,2
+33,"Prov. Jawa Tengah",2011,"LYSSA",0,3
+33,"Prov. Jawa Tengah",2012,"GHPR",0,1
+33,"Prov. Jawa Tengah",2012,"VAR",0,2
+33,"Prov. Jawa Tengah",2012,"LYSSA",0,3
+34,"Prov. D I Yogyakarta",2010,"GHPR",0,1
+34,"Prov. D I Yogyakarta",2010,"VAR",0,2
+34,"Prov. D I Yogyakarta",2010,"LYSSA",0,3
+34,"Prov. D I Yogyakarta",2011,"GHPR",0,1
+34,"Prov. D I Yogyakarta",2011,"VAR",0,2
+34,"Prov. D I Yogyakarta",2011,"LYSSA",0,3
+34,"Prov. D I Yogyakarta",2012,"GHPR",0,1
+34,"Prov. D I Yogyakarta",2012,"VAR",0,2
+34,"Prov. D I Yogyakarta",2012,"LYSSA",0,3
+35,"Prov. Jawa Timur",2010,"GHPR",0,1
+35,"Prov. Jawa Timur",2010,"VAR",0,2
+35,"Prov. Jawa Timur",2010,"LYSSA",0,3
+35,"Prov. Jawa Timur",2011,"GHPR",0,1
+35,"Prov. Jawa Timur",2011,"VAR",0,2
+35,"Prov. Jawa Timur",2011,"LYSSA",0,3
+35,"Prov. Jawa Timur",2012,"GHPR",0,1
+35,"Prov. Jawa Timur",2012,"VAR",0,2
+35,"Prov. Jawa Timur",2012,"LYSSA",0,3
+36,"Prov. Banten",2010,"GHPR",119,1
+36,"Prov. Banten",2010,"VAR",106,2
+36,"Prov. Banten",2010,"LYSSA",0,3
+36,"Prov. Banten",2011,"GHPR",30,1
+36,"Prov. Banten",2011,"VAR",0,2
+36,"Prov. Banten",2011,"LYSSA",0,3
+36,"Prov. Banten",2012,"GHPR",0,1
+36,"Prov. Banten",2012,"VAR",0,2
+36,"Prov. Banten",2012,"LYSSA",0,3
+51,"Prov. Bali",2010,"GHPR",60434,1
+51,"Prov. Bali",2010,"VAR",52775,2
+51,"Prov. Bali",2010,"LYSSA",82,3
+51,"Prov. Bali",2011,"GHPR",52798,1
+51,"Prov. Bali",2011,"VAR",49900,2
+51,"Prov. Bali",2011,"LYSSA",23,3
+51,"Prov. Bali",2012,"GHPR",55836,1
+51,"Prov. Bali",2012,"VAR",52250,2
+51,"Prov. Bali",2012,"LYSSA",8,3
+52,"Prov. Nusa Tenggara Barat",2010,"GHPR",0,1
+52,"Prov. Nusa Tenggara Barat",2010,"VAR",0,2
+52,"Prov. Nusa Tenggara Barat",2010,"LYSSA",0,3
+52,"Prov. Nusa Tenggara Barat",2011,"GHPR",0,1
+52,"Prov. Nusa Tenggara Barat",2011,"VAR",0,2
+52,"Prov. Nusa Tenggara Barat",2011,"LYSSA",0,3
+52,"Prov. Nusa Tenggara Barat",2012,"GHPR",0,1
+52,"Prov. Nusa Tenggara Barat",2012,"VAR",0,2
+52,"Prov. Nusa Tenggara Barat",2012,"LYSSA",0,3
+53,"Prov. Nusa Tenggara Timur",2010,"GHPR",3547,1
+53,"Prov. Nusa Tenggara Timur",2010,"VAR",2154,2
+53,"Prov. Nusa Tenggara Timur",2010,"LYSSA",25,3
+53,"Prov. Nusa Tenggara Timur",2011,"GHPR",5500,1
+53,"Prov. Nusa Tenggara Timur",2011,"VAR",4871,2
+53,"Prov. Nusa Tenggara Timur",2011,"LYSSA",12,3
+53,"Prov. Nusa Tenggara Timur",2012,"GHPR",5564,1
+53,"Prov. Nusa Tenggara Timur",2012,"VAR",5176,2
+53,"Prov. Nusa Tenggara Timur",2012,"LYSSA",7,3
+61,"Prov. Kalimantan Barat",2010,"GHPR",0,1
+61,"Prov. Kalimantan Barat",2010,"VAR",0,2
+61,"Prov. Kalimantan Barat",2010,"LYSSA",0,3
+61,"Prov. Kalimantan Barat",2011,"GHPR",0,1
+61,"Prov. Kalimantan Barat",2011,"VAR",0,2
+61,"Prov. Kalimantan Barat",2011,"LYSSA",0,3
+61,"Prov. Kalimantan Barat",2012,"GHPR",3527,1
+61,"Prov. Kalimantan Barat",2012,"VAR",1706,2
+61,"Prov. Kalimantan Barat",2012,"LYSSA",35,3
+62,"Prov. Kalimantan Tengah",2010,"GHPR",566,1
+62,"Prov. Kalimantan Tengah",2010,"VAR",390,2
+62,"Prov. Kalimantan Tengah",2010,"LYSSA",1,3
+62,"Prov. Kalimantan Tengah",2011,"GHPR",935,1
+62,"Prov. Kalimantan Tengah",2011,"VAR",636,2
+62,"Prov. Kalimantan Tengah",2011,"LYSSA",2,3
+62,"Prov. Kalimantan Tengah",2012,"GHPR",458,1
+62,"Prov. Kalimantan Tengah",2012,"VAR",292,2
+62,"Prov. Kalimantan Tengah",2012,"LYSSA",6,3
+63,"Prov. Kalimantan Selatan",2010,"GHPR",65,1
+63,"Prov. Kalimantan Selatan",2010,"VAR",53,2
+63,"Prov. Kalimantan Selatan",2010,"LYSSA",0,3
+63,"Prov. Kalimantan Selatan",2011,"GHPR",179,1
+63,"Prov. Kalimantan Selatan",2011,"VAR",171,2
+63,"Prov. Kalimantan Selatan",2011,"LYSSA",2,3
+63,"Prov. Kalimantan Selatan",2012,"GHPR",1197,1
+63,"Prov. Kalimantan Selatan",2012,"VAR",960,2
+63,"Prov. Kalimantan Selatan",2012,"LYSSA",4,3
+64,"Prov. Kalimantan Timur",2010,"GHPR",42,1
+64,"Prov. Kalimantan Timur",2010,"VAR",2,2
+64,"Prov. Kalimantan Timur",2010,"LYSSA",0,3
+64,"Prov. Kalimantan Timur",2011,"GHPR",315,1
+64,"Prov. Kalimantan Timur",2011,"VAR",260,2
+64,"Prov. Kalimantan Timur",2011,"LYSSA",1,3
+64,"Prov. Kalimantan Timur",2012,"GHPR",413,1
+64,"Prov. Kalimantan Timur",2012,"VAR",389,2
+64,"Prov. Kalimantan Timur",2012,"LYSSA",3,3
+71,"Prov. Sulawesi Utara",2010,"GHPR",1412,1
+71,"Prov. Sulawesi Utara",2010,"VAR",439,2
+71,"Prov. Sulawesi Utara",2010,"LYSSA",10,3
+71,"Prov. Sulawesi Utara",2011,"GHPR",2961,1
+71,"Prov. Sulawesi Utara",2011,"VAR",1086,2
+71,"Prov. Sulawesi Utara",2011,"LYSSA",26,3
+71,"Prov. Sulawesi Utara",2012,"GHPR",1201,1
+71,"Prov. Sulawesi Utara",2012,"VAR",841,2
+71,"Prov. Sulawesi Utara",2012,"LYSSA",9,3
+72,"Prov. Sulawesi Tengah",2010,"GHPR",591,1
+72,"Prov. Sulawesi Tengah",2010,"VAR",371,2
+72,"Prov. Sulawesi Tengah",2010,"LYSSA",3,3
+72,"Prov. Sulawesi Tengah",2011,"GHPR",976,1
+72,"Prov. Sulawesi Tengah",2011,"VAR",660,2
+72,"Prov. Sulawesi Tengah",2011,"LYSSA",21,3
+72,"Prov. Sulawesi Tengah",2012,"GHPR",603,1
+72,"Prov. Sulawesi Tengah",2012,"VAR",601,2
+72,"Prov. Sulawesi Tengah",2012,"LYSSA",0,3
+73,"Prov. Sulawesi Selatan",2010,"GHPR",99,1
+73,"Prov. Sulawesi Selatan",2010,"VAR",85,2
+73,"Prov. Sulawesi Selatan",2010,"LYSSA",0,3
+73,"Prov. Sulawesi Selatan",2011,"GHPR",2454,1
+73,"Prov. Sulawesi Selatan",2011,"VAR",1053,2
+73,"Prov. Sulawesi Selatan",2011,"LYSSA",0,3
+73,"Prov. Sulawesi Selatan",2012,"GHPR",119,1
+73,"Prov. Sulawesi Selatan",2012,"VAR",0,2
+73,"Prov. Sulawesi Selatan",2012,"LYSSA",0,3
+74,"Prov. Sulawesi Tenggara",2010,"GHPR",1267,1
+74,"Prov. Sulawesi Tenggara",2010,"VAR",478,2
+74,"Prov. Sulawesi Tenggara",2010,"LYSSA",4,3
+74,"Prov. Sulawesi Tenggara",2011,"GHPR",1134,1
+74,"Prov. Sulawesi Tenggara",2011,"VAR",959,2
+74,"Prov. Sulawesi Tenggara",2011,"LYSSA",5,3
+74,"Prov. Sulawesi Tenggara",2012,"GHPR",1265,1
+74,"Prov. Sulawesi Tenggara",2012,"VAR",825,2
+74,"Prov. Sulawesi Tenggara",2012,"LYSSA",5,3
+75,"Prov. Gorontalo",2010,"GHPR",325,1
+75,"Prov. Gorontalo",2010,"VAR",127,2
+75,"Prov. Gorontalo",2010,"LYSSA",2,3
+75,"Prov. Gorontalo",2011,"GHPR",440,1
+75,"Prov. Gorontalo",2011,"VAR",226,2
+75,"Prov. Gorontalo",2011,"LYSSA",3,3
+75,"Prov. Gorontalo",2012,"GHPR",92,1
+75,"Prov. Gorontalo",2012,"VAR",74,2
+75,"Prov. Gorontalo",2012,"LYSSA",0,3
+76,"Prov. Sulawesi Barat",2010,"GHPR",97,1
+76,"Prov. Sulawesi Barat",2010,"VAR",50,2
+76,"Prov. Sulawesi Barat",2010,"LYSSA",5,3
+76,"Prov. Sulawesi Barat",2011,"GHPR",307,1
+76,"Prov. Sulawesi Barat",2011,"VAR",204,2
+76,"Prov. Sulawesi Barat",2011,"LYSSA",0,3
+76,"Prov. Sulawesi Barat",2012,"GHPR",0,1
+76,"Prov. Sulawesi Barat",2012,"VAR",0,2
+76,"Prov. Sulawesi Barat",2012,"LYSSA",0,3
+81,"Prov. Maluku",2010,"GHPR",778,1
+81,"Prov. Maluku",2010,"VAR",359,2
+81,"Prov. Maluku",2010,"LYSSA",21,3
+81,"Prov. Maluku",2011,"GHPR",3206,1
+81,"Prov. Maluku",2011,"VAR",2074,2
+81,"Prov. Maluku",2011,"LYSSA",31,3
+81,"Prov. Maluku",2012,"GHPR",198,1
+81,"Prov. Maluku",2012,"VAR",152,2
+81,"Prov. Maluku",2012,"LYSSA",3,3
+82,"Prov. Maluku Utara",2010,"GHPR",50,1
+82,"Prov. Maluku Utara",2010,"VAR",40,2
+82,"Prov. Maluku Utara",2010,"LYSSA",1,3
+82,"Prov. Maluku Utara",2011,"GHPR",237,1
+82,"Prov. Maluku Utara",2011,"VAR",232,2
+82,"Prov. Maluku Utara",2011,"LYSSA",6,3
+82,"Prov. Maluku Utara",2012,"GHPR",2045,1
+82,"Prov. Maluku Utara",2012,"VAR",1501,2
+82,"Prov. Maluku Utara",2012,"LYSSA",19,3
+91,"Prov. Papua Barat",2010,"GHPR",0,1
+91,"Prov. Papua Barat",2010,"VAR",0,2
+91,"Prov. Papua Barat",2010,"LYSSA",0,3
+91,"Prov. Papua Barat",2011,"GHPR",0,1
+91,"Prov. Papua Barat",2011,"VAR",0,2
+91,"Prov. Papua Barat",2011,"LYSSA",0,3
+91,"Prov. Papua Barat",2012,"GHPR",0,1
+91,"Prov. Papua Barat",2012,"VAR",0,2
+91,"Prov. Papua Barat",2012,"LYSSA",0,3
+94,"Prov. Papua",2010,"GHPR",0,1
+94,"Prov. Papua",2010,"VAR",0,2
+94,"Prov. Papua",2010,"LYSSA",0,3
+94,"Prov. Papua",2011,"GHPR",0,1
+94,"Prov. Papua",2011,"VAR",0,2
+94,"Prov. Papua",2011,"LYSSA",0,3
+94,"Prov. Papua",2012,"GHPR",0,1
+94,"Prov. Papua",2012,"VAR",0,2
+94,"Prov. Papua",2012,"LYSSA",0,3
